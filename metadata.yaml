@@ -1,0 +1,37 @@
+_repo: The-War-Romance-of-the-Salvation-Army_7811
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hill, Grace Livingston
+    aliases:
+    - Livingston, Grace
+    - Lutz, Grace Livingston Hill
+    birthdate: &id001 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+  - agent_name: Booth, Evangeline
+    aliases:
+    - Booth, Evangeline Cory
+    - Booth, Eva
+    birthdate: *id001
+    deathdate: 1950
+    gutenberg_agent_id: '2539'
+    url: http://www.gutenberg.org/2009/agents/2539
+    wikipedia: http://en.wikipedia.org/wiki/Evangeline_Booth
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- War work -- Salvation Army'
+- GITenberg
+title: The War Romance of the Salvation Army
+url: http://www.gutenberg.org/ebooks/7811
