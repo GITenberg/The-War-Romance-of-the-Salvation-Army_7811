@@ -1,12 +1,15 @@
 _repo: The-War-Romance-of-the-Salvation-Army_7811
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Hill, Grace Livingston
     aliases:
     - Livingston, Grace
     - Lutz, Grace Livingston Hill
-    birthdate: &id001 1865
+    birthdate: 1865
     deathdate: 1947
     gutenberg_agent_id: '2299'
     url: http://www.gutenberg.org/2009/agents/2299
@@ -15,12 +18,14 @@ creator:
     aliases:
     - Booth, Evangeline Cory
     - Booth, Eva
-    birthdate: *id001
+    birthdate: 1865
     deathdate: 1950
     gutenberg_agent_id: '2539'
     url: http://www.gutenberg.org/2009/agents/2539
     wikipedia: http://en.wikipedia.org/wiki/Evangeline_Booth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7811#The-War-Romance-of-the-Salvation-Army
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
